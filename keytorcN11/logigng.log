@@ -1,0 +1,337 @@
+2020-02-09 14:35:53 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 14:35:58 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 14:36:00 ERROR Listener:20 - hata -  
+ 2020-02-09 14:36:01 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.NoSuchElementException: Cannot locate an element using id=login
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: driver.version: RemoteWebDriver 
+ 2020-02-09 15:24:30 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:24:35 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:24:39 ERROR Listener:20 - hata -  
+ 2020-02-09 15:24:40 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" id="genderUnknown" name="gender" value="U"> is not clickable at point (690, 576). Other element would receive the click: <label for="genderUnknown" class="genderArea-two-line">...</label>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60574}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a4dd21aee8c00316b26eeb06d298db95 
+ 2020-02-09 15:26:12 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:26:16 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:26:19 ERROR Listener:20 - hata -  
+ 2020-02-09 15:26:20 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="radio" id="genderUnknown" name="gender" value="U"> is not clickable at point (690, 576). Other element would receive the click: <label for="genderUnknown" class="genderArea-two-line">...</label>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60947}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 772af157654cbe22556455d2d5b4bba5 
+ 2020-02-09 15:27:23 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:27:27 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:27:29 INFO  Listener:15 - başarılı -  
+ 2020-02-09 15:27:29 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 15:45:19 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:45:24 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:45:28 ERROR Listener:20 - hata -  
+ 2020-02-09 15:45:28 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (386, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64505}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8bda21a949fe678f4b120174611ecb9e 
+ 2020-02-09 15:46:31 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:46:36 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:46:39 ERROR Listener:20 - hata -  
+ 2020-02-09 15:46:40 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (386, 542). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 87f3bffa4a102432f008dca6ef619ebd 
+ 2020-02-09 15:57:59 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 15:58:03 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 15:58:05 INFO  Listener:15 - başarılı -  
+ 2020-02-09 15:58:05 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:01:59 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:02:05 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:02:07 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:02:07 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:02:27 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:02:31 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:02:34 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:02:34 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:03:12 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:03:16 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:03:19 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:03:19 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:46:16 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:46:21 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:46:23 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:46:23 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:46:45 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:46:52 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:52:39 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:52:45 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:52:50 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:52:50 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:53:03 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:53:07 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:54:18 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:54:21 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:54:29 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:54:29 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:54:42 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:54:46 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:54:49 INFO  Listener:15 - başarılı -  
+ 2020-02-09 16:54:49 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 16:55:23 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 16:55:29 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 16:55:32 ERROR Listener:20 - hata -  
+ 2020-02-09 16:55:33 INFO  Listener:46 - Browser kapatıldı - java.lang.AssertionError: expected [keytorc proje1] but found [keytorc proje] 
+ 2020-02-09 17:34:19 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 17:34:23 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 17:34:26 INFO  Listener:15 - başarılı -  
+ 2020-02-09 17:34:26 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 17:37:09 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 17:37:14 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 17:37:29 INFO  Listener:15 - başarılı -  
+ 2020-02-09 17:37:29 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:14:40 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:14:44 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:15:12 ERROR Listener:20 - hata -  
+ 2020-02-09 18:15:13 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h3[@class='productName'] (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 18:15:27 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:15:31 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:15:56 ERROR Listener:20 - hata -  
+ 2020-02-09 18:15:57 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h3[@class='productName'] (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 18:19:54 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:19:59 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:20:27 ERROR Listener:20 - hata -  
+ 2020-02-09 18:20:27 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h3[@class='.productName'] (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 18:21:03 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:21:11 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:21:36 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:21:36 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:23:16 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:23:21 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:23:45 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:23:45 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:28:02 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:28:09 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:28:18 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:28:18 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:37:01 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:37:09 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:37:26 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:37:30 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:37:36 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:37:36 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:38:53 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:39:29 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:39:35 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:39:35 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 18:42:27 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 18:42:32 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 18:42:39 INFO  Listener:15 - başarılı -  
+ 2020-02-09 18:42:39 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:13:27 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:13:31 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:13:53 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:13:53 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:14:33 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:14:38 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:14:53 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:14:53 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:19:00 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:19:04 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:19:12 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:19:12 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:19:49 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:19:53 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:20:05 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:20:05 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:25:59 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:26:03 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:26:22 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:26:22 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:27:39 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:27:44 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:27:53 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:27:53 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:28:50 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:28:54 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:29:06 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:29:06 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:38:23 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:38:27 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:38:40 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:38:40 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:42:16 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:42:20 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:42:56 ERROR Listener:20 - hata -  
+ 2020-02-09 19:42:57 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 01a33703017b91c95addad58f50132d4
+*** Element info: {Using=link text, value=Favorilerim / Listelerim} 
+ 2020-02-09 19:45:36 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:45:41 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:45:58 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:45:58 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:47:58 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:48:24 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:48:28 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:48:45 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:48:45 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:53:02 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:53:08 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:53:24 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:53:24 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 19:53:37 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:53:44 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:54:47 ERROR Listener:20 - hata -  
+ 2020-02-09 19:54:48 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="myAccount">...</div> is not clickable at point (856, 27). Other element would receive the click: <div class="lightBox" style="display: block;">...</div>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64778}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: de58e872a9518ba1d45eedcf8743bfb7 
+ 2020-02-09 19:55:39 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 19:55:44 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 19:56:01 INFO  Listener:15 - başarılı -  
+ 2020-02-09 19:56:01 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 20:50:35 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:50:39 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:51:12 ERROR Listener:20 - hata -  
+ 2020-02-09 20:51:13 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.cssSelector: .orderAndTicketTopMenu (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 20:52:26 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:52:30 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:52:55 ERROR Listener:20 - hata -  
+ 2020-02-09 20:52:56 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="myAccount">...</div> is not clickable at point (1205, 27). Other element would receive the click: <div class="lightBox" style="display: block;">...</div>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56595}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d233bc950c77b828a71a1f24ee488a57 
+ 2020-02-09 20:53:32 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:53:38 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:53:56 INFO  Listener:15 - başarılı -  
+ 2020-02-09 20:53:56 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 20:57:14 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:57:23 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:57:37 ERROR Listener:20 - hata -  
+ 2020-02-09 20:57:38 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="textImg followBtn" title="Favorilere ekle" data-productid="325949937" data-controlformid="addToWatchlistForm325949937" data-returnurl="/izle/urun/yonlendir/325949937?referrerPageForWatchList=%2Farama%3Fq%3Dsamsung%23p-325949937"></span> is not clickable at point (469, 7). Other element would receive the click: <div class="listOptionHolder darkListOpt sticky" style="left: 256.6px; width: 728px;">...</div>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c2dd835bd3b75941d4beccb96b0cf033 
+ 2020-02-09 20:58:05 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:58:09 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:58:16 ERROR Listener:20 - hata -  
+ 2020-02-09 20:58:17 INFO  Listener:46 - Browser kapatıldı - java.lang.ClassCastException: org.openqa.selenium.By$ByXPath cannot be cast to org.openqa.selenium.WebElement 
+ 2020-02-09 20:58:43 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 20:58:47 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 20:59:00 ERROR Listener:20 - hata -  
+ 2020-02-09 20:59:00 INFO  Listener:46 - Browser kapatıldı - java.lang.ClassCastException: org.openqa.selenium.By$ByXPath cannot be cast to org.openqa.selenium.WebElement 
+ 2020-02-09 21:00:13 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:00:18 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:00:29 ERROR Listener:20 - hata -  
+ 2020-02-09 21:00:30 INFO  Listener:46 - Browser kapatıldı - java.lang.ClassCastException: org.openqa.selenium.By$ByXPath cannot be cast to org.openqa.selenium.WebElement 
+ 2020-02-09 21:01:40 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:01:44 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:01:56 ERROR Listener:20 - hata -  
+ 2020-02-09 21:01:57 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="myAccount">...</div> is not clickable at point (856, 27). Other element would receive the click: <div class="lightBox" style="display: block;">...</div>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59408}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b681466ffa6ebbef16a3efc274a51177 
+ 2020-02-09 21:02:20 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:02:24 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:02:41 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:02:41 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 21:04:25 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:04:30 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:04:37 ERROR Listener:20 - hata -  
+ 2020-02-09 21:04:38 INFO  Listener:46 - Browser kapatıldı - java.lang.ClassCastException: org.openqa.selenium.By$ByXPath cannot be cast to org.openqa.selenium.WebElement 
+ 2020-02-09 21:05:07 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:05:11 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:05:29 ERROR Listener:20 - hata -  
+ 2020-02-09 21:05:30 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60727}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aa224aee848309e4bdf87fc3537c1907 
+ 2020-02-09 21:05:48 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:06:01 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:06:14 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:06:14 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 21:09:51 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:09:55 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:10:29 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:10:29 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 21:12:32 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:12:36 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:13:13 ERROR Listener:20 - hata -  
+ 2020-02-09 21:13:14 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.cssSelector: deleteProFromFavorites (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 21:16:56 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:17:00 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:17:08 ERROR Listener:20 - hata -  
+ 2020-02-09 21:17:09 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="textImg followBtn" title="Favorilere ekle" data-productid="325949937" data-controlformid="addToWatchlistForm325949937" data-returnurl="/izle/urun/yonlendir/325949937?referrerPageForWatchList=%2Farama%3Fq%3Dsamsung%23p-325949937"></span> is not clickable at point (469, 7). Other element would receive the click: <div class="listOptionHolder darkListOpt sticky" style="left: 256.6px; width: 728px;">...</div>
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63829}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e769c9a704c08439977fcd14a4b0d145 
+ 2020-02-09 21:17:30 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:17:35 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:17:52 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:17:52 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 21:19:24 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:19:28 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:20:00 ERROR Listener:20 - hata -  
+ 2020-02-09 21:20:00 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Favorilerim / Listelerim (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 21:20:19 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:20:23 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:20:58 ERROR Listener:20 - hata -  
+ 2020-02-09 21:20:59 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Favorilerim / Listelerim (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 21:24:11 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:24:16 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:24:44 ERROR Listener:20 - hata -  
+ 2020-02-09 21:24:45 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Favorilerim / Listelerim (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 21:24:55 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:25:01 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:25:16 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:25:16 INFO  Listener:46 - Browser kapatıldı -  
+ 2020-02-09 21:40:44 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:40:51 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:41:22 ERROR Listener:20 - hata -  
+ 2020-02-09 21:41:23 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Favorilerim / Listelerim (tried for 20 second(s) with 500 milliseconds interval) 
+ 2020-02-09 21:42:27 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:42:31 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:42:38 ERROR Listener:20 - hata -  
+ 2020-02-09 21:42:39 INFO  Listener:46 - Browser kapatıldı - org.openqa.selenium.JavascriptException: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.
+  (Session info: chrome=80.0.3987.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-41O6H8P', ip: '192.168.1.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.87, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\SERIFY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6c53b6e583b9464c3f32c44c54bda546 
+ 2020-02-09 21:43:16 INFO  Listener:40 - Browser Açıldı -  
+ 2020-02-09 21:43:20 INFO  Listener:10 - N11 anasayfasına giriş yapıldı -  
+ 2020-02-09 21:43:36 INFO  Listener:15 - başarılı -  
+ 2020-02-09 21:43:36 INFO  Listener:46 - Browser kapatıldı -  
+ 
